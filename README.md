@@ -1,1 +1,1 @@
-# learn-python-jupyter
+# learn-python
